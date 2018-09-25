@@ -1,0 +1,304 @@
+body{
+	background-image: url("../img/bg.jpg");
+	width: 100%;
+	height: 100%; 
+}
+
+.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8{
+	background-color: white;
+	opacity: 0.9;
+	color: #333;
+	margin-top: 30px;
+	padding: 30px;
+}
+
+header{
+	color: white;
+	text-align: center;
+}
+
+.navigation{
+	height: 70px;
+	width: 100%;
+	background: white;
+	color: #333;
+	opacity: 0.9;
+	font-size: 20px;
+	padding-left: 30%;
+	padding-right: 30%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.nav1{
+	float: left;
+	width: 10%;
+	height: 70px;
+	padding-top: 25px;
+	color: #e6e6e6;
+}
+
+section{
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.image{
+	width: 95%;
+	padding: 30px;
+}
+
+#welcome{
+	padding-left: 45%;
+	padding-right: 45%;
+	margin: 0 auto;
+}
+
+#content{
+	padding-left: 41%;
+	padding-right: 40%;
+}
+
+hr{
+	width: 30%;
+}
+
+#content1{
+	padding-left: 38%;
+	padding-right: 35%;
+}
+
+.para img{
+	float: left;
+}
+
+.para p{
+	font-size: 20px;
+	margin-left: 23%;
+}
+
+.lorem{
+	font-size: 20px;
+}
+
+.para1 p{
+	padding-left: 33%;
+	padding-right: 30%;
+}
+
+.space{
+	width: 40%;
+}
+
+.para2{
+	padding-left: 40%;
+	padding-right: 40%;
+}
+
+.content1 img{
+	float: left;
+	height: 250px;
+	width: 45%;
+}
+
+.content1 p{
+	font-size: 20px;
+	margin-left: 48%;
+}
+
+.content1{
+	padding: 20px;
+}
+
+.para3{
+	padding-left: 43%;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+.box5 p{
+	width: 30%;
+	font-size: 25px;
+}
+
+.name{
+	float: left;
+	width: 350px;
+	height: 70px;
+	padding-left: 25px;
+}
+
+.team{
+	background-color: white;
+	opacity: 0.9;
+	width: 100%;
+	height: 70px;
+	padding-left: 2%;
+}
+
+.name p{
+	width: 100%;
+}
+
+.paratwo{
+	padding-left: 42%;
+	font-size: 22px;
+}
+
+.para3{
+	width: 100%;
+	padding-left: 42%;
+	padding-right: 45%;
+	font-size: 30px;
+	margin-bottom: 0;
+}
+
+.para4{
+	padding-left: 42.5%;
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+.para5{
+	font-size: 20px;
+	text-align: center;
+}
+
+.box6 img{
+	width: 100%;
+	padding-top: 20px;
+}
+
+.button{
+	padding-left: 44%;
+	padding-bottom: 10px;
+}
+
+button{
+	border: 0.5px #ccc solid;
+	padding: 15px;
+	background-color: white;
+	border-radius: 5px;
+	font-size: 18px;
+}
+
+.pagination{
+	width: 100%;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.older{
+	float: left;
+	border-radius: 35px;
+	padding: 5px 16px 5px 16px;
+	font-size: 15px;
+}
+
+.newer{
+	float: right;
+	border-radius: 35px;
+	padding: 5px 18px 5px 16px;
+	font-size: 15px;
+}
+
+button:hover{
+	background-color: #e6e6e6;
+}
+
+a:link {
+    text-decoration: none;
+    color: #808080;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #808080;
+}
+
+.nav1 a:hover {
+    text-decoration: none;
+    color: #404040;
+}
+
+a:active {
+    text-decoration: none;
+    color: #808080;
+}
+
+.extra:link {
+	color: #66b3ff;
+}
+
+.extra:active {
+	color: #66b3ff;
+}
+
+.extra:visited {
+	color: #66b3ff;
+}
+
+.extra:hover {
+	border-bottom: 1px solid #66b3ff;
+	display: inline-block;
+	line-height: 0.85;
+	color: #66b3ff;
+}
+
+textarea{
+	width: 100%;
+	height: 150px;
+}
+
+.para6{
+	padding-left: 38%;
+	font-size: 20px;
+}
+
+.details{
+	padding-left: 70%;
+	font-size: 18px;
+}
+
+.email:link {
+	color: #0066ff;
+}
+
+.email:active {
+	color: #0066ff;
+}
+
+.email:visited {
+	color: #0066ff;
+}
+
+.email:hover {
+	border-bottom: 1px solid #66b3ff;
+	display: inline-block;
+	line-height: 0.85;
+	color: #0066ff;
+}
+
+.lorem1{
+	font-size: 20px;
+}
+
+.labels{
+	width: 100%;
+	float: left;
+}
+
+.input p{
+	width: 25%;
+}
+
+.input1{
+	/*padding-left: 5%;*/
+}

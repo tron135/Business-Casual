@@ -33,7 +33,6 @@ header{
 .nav1{
 	float: left;
 	width: 10%;
-	height: 70px;
 	padding-top: 25px;
 	color: #e6e6e6;
 }
@@ -292,13 +291,23 @@ textarea{
 
 .labels{
 	width: 100%;
+}
+
+.sublabels p{
+	width: 30%;
 	float: left;
+	font-size: 20px;
 }
 
-.input p{
-	width: 25%;
+.msg{
+	font-size: 20px;
 }
 
-.input1{
-	/*padding-left: 5%;*/
+.inputs input{
+	width: 29%;
+	height: 22px;
+}
+
+.text{
+	padding-bottom: 20px;
 }
